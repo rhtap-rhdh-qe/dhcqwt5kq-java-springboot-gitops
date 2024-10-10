@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dhcqwt5kq-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dhcqwt5kq-java-springboot
